@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 似乎在迷茫期
 
-You can use the [editor on GitHub](https://github.com/Elvira93/ELVIRA1019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Linux
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 安装Ubuntu
+2. 常用bash命令
 
 ```markdown
 //注释区域1
@@ -28,11 +26,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-```markdown
-//注释区域2
-# 标题5
-# 标题6
-# 标题7
-# 标题8
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-```
+### Oracle
